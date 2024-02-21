@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T02:55:13.406Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.5" etag="qKhMb8lAbr2lB9f0ctpG" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T03:06:42.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="0upBqEig9a4coqCbuF2i" version="23.1.5" type="github">
   <diagram name="第 1 页" id="uQ5nZ9ODtgMMUpP7XAha">
-    <mxGraphModel>
+    <mxGraphModel dx="3001" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BRixojLOcp_gWiEqDayk-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BRixojLOcp_gWiEqDayk-7" target="BRixojLOcp_gWiEqDayk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRixojLOcp_gWiEqDayk-7" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;同期比較表&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="-189" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BRixojLOcp_gWiEqDayk-11" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;傳統型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1207" y="-60" width="154" height="89.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BRixojLOcp_gWiEqDayk-12" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;投資型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="-62" width="168" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="BRixojLOcp_gWiEqDayk-13" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;傳統型+投資型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="-60.5" width="171" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="BRixojLOcp_gWiEqDayk-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-990" y="-111" as="sourcePoint" />
+            <mxPoint x="-1054" y="-62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRixojLOcp_gWiEqDayk-17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-832" y="-109" as="sourcePoint" />
+            <mxPoint x="-779" y="-61" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRixojLOcp_gWiEqDayk-19" value="&lt;b style=&quot;background-color: rgb(255, 153, 153); font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;透過(計算)保費速報，裡面的1-1~4-2來產出&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1176" y="-282" width="516" height="74" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
