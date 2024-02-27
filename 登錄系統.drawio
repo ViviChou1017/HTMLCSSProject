@@ -1,9 +1,126 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T03:34:33.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="23.1.6" etag="nIv4aZKaTFE_qpCIh4S2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T09:34:29.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Q_W_Dr6E1wOnCL7CsPHm" version="23.1.6" type="github">
   <diagram name="第 1 页" id="tsdWixEWfDET2oM3PkZ5">
-    <mxGraphModel>
+    <mxGraphModel dx="4868" dy="2676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AjjsdvvaNhJOi6H-aHST-1" target="AjjsdvvaNhJOi6H-aHST-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-1" value="&lt;font style=&quot;font-size: 30px; background-color: rgb(255, 204, 204);&quot;&gt;撤銷登錄F是因為第11條之1、第13條、第19條第3項所產生者，需要重新取得登錄資格(重考資格測驗)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="390" y="335" width="1360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-2" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;登錄&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-1170" y="-710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AjjsdvvaNhJOi6H-aHST-2" target="AjjsdvvaNhJOi6H-aHST-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-960" y="-680" as="sourcePoint" />
+            <mxPoint x="-880" y="-710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AjjsdvvaNhJOi6H-aHST-2" target="AjjsdvvaNhJOi6H-aHST-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-960" y="-680" as="sourcePoint" />
+            <mxPoint x="-870" y="-630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AjjsdvvaNhJOi6H-aHST-5" target="AjjsdvvaNhJOi6H-aHST-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-5" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;新登錄A&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="-790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AjjsdvvaNhJOi6H-aHST-6" target="AjjsdvvaNhJOi6H-aHST-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-6" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;再登錄A&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="-530" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-7" value="&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 25px;&quot;&gt;登錄條件:&lt;br&gt;1.通過資格測驗者。&lt;br&gt;2.曾因&lt;span style=&quot;font-size: 25px;&quot;&gt;第11條之1、第13條、第19條第3項撤銷登錄者，重新&amp;nbsp; &amp;nbsp; &amp;nbsp;通過資格測驗者。&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;3.已向主轉機關繳銷職業證照之保險代理人及經紀人。&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="-857.5" width="670" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 26px; background-color: initial;&quot;&gt;再登錄條件:&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.已註銷登錄業務員(有管理規則第7條各款情事者，)應於不予登錄之&amp;nbsp; &amp;nbsp; &amp;nbsp;情是消滅後，方可重新登錄。)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.受停止招攬登錄處分期間屆滿者。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.轉任他公司或是再任原公司者。(有被懲處過者)&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="-610" width="800" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-13" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;異動登錄&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="-170" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AjjsdvvaNhJOi6H-aHST-2" target="AjjsdvvaNhJOi6H-aHST-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1120" y="-460" as="sourcePoint" />
+            <mxPoint x="-1070" y="-510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AjjsdvvaNhJOi6H-aHST-17" target="AjjsdvvaNhJOi6H-aHST-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-17" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;變更登錄C&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="-270" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="AjjsdvvaNhJOi6H-aHST-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-740" y="-170" as="sourcePoint" />
+            <mxPoint x="-690" y="-220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AjjsdvvaNhJOi6H-aHST-27" target="AjjsdvvaNhJOi6H-aHST-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-27" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;註銷登錄E&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="-20" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AjjsdvvaNhJOi6H-aHST-28" target="AjjsdvvaNhJOi6H-aHST-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-28" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;停止招攬登錄D&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="150" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AjjsdvvaNhJOi6H-aHST-29" target="AjjsdvvaNhJOi6H-aHST-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-29" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;撤銷登錄F&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="330" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="AjjsdvvaNhJOi6H-aHST-13" target="AjjsdvvaNhJOi6H-aHST-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-710" y="-130" as="sourcePoint" />
+            <mxPoint x="-690" y="-170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AjjsdvvaNhJOi6H-aHST-13" target="AjjsdvvaNhJOi6H-aHST-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-750" y="-60" as="sourcePoint" />
+            <mxPoint x="-700" y="-110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AjjsdvvaNhJOi6H-aHST-13" target="AjjsdvvaNhJOi6H-aHST-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-740" y="70" as="sourcePoint" />
+            <mxPoint x="-690" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AjjsdvvaNhJOi6H-aHST-33" target="AjjsdvvaNhJOi6H-aHST-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 28px; background-color: rgb(255, 153, 153);&quot;&gt;業務員有異動所屬公司應於異動後5日內，向本會申報。&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1640" y="-165" width="710" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-35" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;1.一般資料變更C:學歷、所屬公司代碼、戶籍地址、公司授權招攬行為之範圍、財產&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;保險登錄狀況。&lt;br&gt;2.招攬險種變更I:公司授權招攬之保險種類。&lt;br&gt;3.基本資料變更J:姓名、生日、身分證統一編號、變更登錄證號(只能變更一次)。&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="-327.5" width="980" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-38" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;業務員有管理規則第7條、死亡、喪失行為能力、終止合約、或其他終止招攬行為之情事者，為註銷登錄。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="-35" width="880" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-40" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;業務員因有管理規則第19條第1項各款之情事，受所屬公司予以停止招攬處分。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="120" width="580" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-42" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;業務員因有管理規則第11條之1、第13條、第19條第3項等情事，受所屬公司予以撤銷登錄處分。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="305" width="700" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AjjsdvvaNhJOi6H-aHST-46" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 30px; background-color: rgb(255, 255, 51);&quot;&gt;&lt;b style=&quot;&quot;&gt;special case:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 30px; background-color: rgb(255, 255, 51);&quot;&gt;&lt;b style=&quot;&quot;&gt;前公司想給予該業務員有管理規則第7條、第11條之1、第13條、第19條等情事，換句話說就是&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 51); font-weight: bold; font-size: 30px;&quot;&gt;此業務員有被註銷登錄E(第7條)、被停止招攬登錄D(第19條)或是被撤銷登錄F(第11條之1、第13條)，&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 51); font-weight: bold; font-size: 30px;&quot;&gt;但此業務員已經先再登錄B到其他保險公司時，行為時所屬公司(前公司)需要通知業務員本人及有關工會，也需通知該業務員所屬的新公司。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="440" width="1870" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
